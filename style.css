@@ -1,0 +1,27 @@
+.warning{
+
+    color:red;
+}
+
+#camera{
+
+    border-style: solid;
+    /*border:1px solid blue;*/
+    height:250px;
+    width:360px;
+
+}
+
+body{
+
+    font-family:cursive;
+    background-image: linear-gradient(to right top,rgb(118, 62, 118), #af36bf, #d778ef6c, #0a73aa, #006494);
+    
+    
+}
+.title{
+    color: white;font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+.command{
+    color:white;
+}
